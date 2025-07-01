@@ -1,0 +1,29 @@
+﻿@model List<ECommerceViewModel>
+@{
+    Layout = null;
+}
+
+
+<div class="container">
+    <br />
+    <br />
+    <table class="table table-bordered">
+        <tr>
+            <th>#</th>
+            <th>Ürün Başlığı</th>
+            <th>Ürün Puanı</th>
+            <th>Ürün Açıklaması</th>
+            <th>Ürün Detayları</th>
+        </tr>
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td>@item.product_id</td>
+                <td>@item.product_title</td>
+                <td>@item.product_rating</td>
+                <td>@item.product_description</td>
+                <td><a href="#" class="btn btn-primary">Ürün Detayları</a></td>
+            </tr>
+        }
+    </table>
+</div>

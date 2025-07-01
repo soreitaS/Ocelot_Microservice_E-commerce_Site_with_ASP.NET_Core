@@ -1,0 +1,40 @@
+﻿@model GetCargoCustomerByIdDto
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/User/Index.cshtml";
+}
+
+<section class="content container-fluid my-4">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow-sm border-0 rounded-3">
+                <div class="card-header bg-primary text-white">
+                    <h4 class="mb-0">Kullanıcı Adres ve İletişim Bilgisi</h4>
+                </div>
+                <div class="card-body">
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item d-flex justify-content-between">
+                            <strong>Kullanıcı Id:</strong> <span>@Model.cargoCustomerId</span>
+                        </li>
+                        <li class="list-group-item d-flex justify-content-between">
+                            <strong>Adı-Soyadı:</strong> <span>@Model.name @Model.surname</span>
+                        </li>
+                        <li class="list-group-item d-flex justify-content-between">
+                            <strong>Email Adresi:</strong> <span>@Model.email</span>
+                        </li>
+                        <li class="list-group-item d-flex justify-content-between">
+                            <strong>Telefon:</strong> <span>@Model.phone</span>
+                        </li>
+                        <li class="list-group-item d-flex justify-content-between">
+                            <strong>İlçe-Şehir:</strong> <span>@Model.district / @Model.city</span>
+                        </li>
+                        <li class="list-group-item d-flex justify-content-between">
+                            <strong>Adres:</strong> <span>@Model.address</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+

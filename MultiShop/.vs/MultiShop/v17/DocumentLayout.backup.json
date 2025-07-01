@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibrahim_ince\\Desktop\\C# Projects\\MultiShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F337C634-AE85-4437-BAD4-56A05A46C5A9}|Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\MultiShop.Cargo.BusinessLayer.csproj|c:\\users\\ibrahim_ince\\desktop\\c# projects\\multishop\\services\\cargo\\multishop.cargo.businesslayer\\abstract\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F337C634-AE85-4437-BAD4-56A05A46C5A9}|Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\MultiShop.Cargo.BusinessLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.businesslayer\\abstract\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7328E53-C18F-4E4D-8E48-87F49D473F30}|Frontends\\MultiShop.DtoLayer\\MultiShop.DtoLayer.csproj|c:\\users\\ibrahim_ince\\desktop\\c# projects\\multishop\\frontends\\multishop.dtolayer\\basketdtos\\basketitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7328E53-C18F-4E4D-8E48-87F49D473F30}|Frontends\\MultiShop.DtoLayer\\MultiShop.DtoLayer.csproj|solutionrelative:frontends\\multishop.dtolayer\\basketdtos\\basketitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB85707-BC6F-4EBD-8F70-3D11F3F29D43}|RapidApi\\MultiShop.RapidApiWebUI\\MultiShop.RapidApiWebUI.csproj|c:\\users\\ibrahim_ince\\desktop\\c# projects\\multishop\\rapidapi\\multishop.rapidapiwebui\\controllers\\ecommercecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB85707-BC6F-4EBD-8F70-3D11F3F29D43}|RapidApi\\MultiShop.RapidApiWebUI\\MultiShop.RapidApiWebUI.csproj|solutionrelative:rapidapi\\multishop.rapidapiwebui\\controllers\\ecommercecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AB8875-F71A-4464-9CBC-2CEAF7B423EE}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\ibrahim_ince\\desktop\\c# projects\\multishop\\frontends\\multishop.webui\\areas\\admin\\controllers\\cargocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AB8875-F71A-4464-9CBC-2CEAF7B423EE}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:frontends\\multishop.webui\\areas\\admin\\controllers\\cargocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AB8875-F71A-4464-9CBC-2CEAF7B423EE}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\ibrahim_ince\\desktop\\c# projects\\multishop\\frontends\\multishop.webui\\settings\\serviceapisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AB8875-F71A-4464-9CBC-2CEAF7B423EE}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:frontends\\multishop.webui\\settings\\serviceapisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B58C09-2D4F-4E52-AB38-CF5B3AEF44D7}|Services\\Cargo\\MultiShop.Cargo.WebApi\\MultiShop.Cargo.WebApi.csproj|c:\\users\\ibrahim_ince\\desktop\\c# projects\\multishop\\services\\cargo\\multishop.cargo.webapi\\controllers\\cargocompaniescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B58C09-2D4F-4E52-AB38-CF5B3AEF44D7}|Services\\Cargo\\MultiShop.Cargo.WebApi\\MultiShop.Cargo.WebApi.csproj|solutionrelative:services\\cargo\\multishop.cargo.webapi\\controllers\\cargocompaniescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AB8875-F71A-4464-9CBC-2CEAF7B423EE}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\ibrahim_ince\\desktop\\c# projects\\multishop\\frontends\\multishop.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AB8875-F71A-4464-9CBC-2CEAF7B423EE}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:frontends\\multishop.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2764C6F0-BBD0-4322-A65B-25E33025AAF1}|Services\\Basket\\MultiShop.Basket\\MultiShop.Basket.csproj|c:\\users\\ibrahim_ince\\desktop\\c# projects\\multishop\\services\\basket\\multishop.basket\\controllers\\basketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2764C6F0-BBD0-4322-A65B-25E33025AAF1}|Services\\Basket\\MultiShop.Basket\\MultiShop.Basket.csproj|solutionrelative:services\\basket\\multishop.basket\\controllers\\basketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D6F79B-18F7-4671-B07C-4A8807CEB5D1}|ApiGateway\\MultiShop.OcelotGateway\\MultiShop.OcelotGateway.csproj|c:\\users\\ibrahim_ince\\desktop\\c# projects\\multishop\\apigateway\\multishop.ocelotgateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0D6F79B-18F7-4671-B07C-4A8807CEB5D1}|ApiGateway\\MultiShop.OcelotGateway\\MultiShop.OcelotGateway.csproj|solutionrelative:apigateway\\multishop.ocelotgateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AB8875-F71A-4464-9CBC-2CEAF7B423EE}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\ibrahim_ince\\desktop\\c# projects\\multishop\\frontends\\multishop.webui\\services\\cargoservices\\cargocompanyservices\\cargocompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AB8875-F71A-4464-9CBC-2CEAF7B423EE}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:frontends\\multishop.webui\\services\\cargoservices\\cargocompanyservices\\cargocompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA14094F-FB55-5ABC-1402-B4229C4AD0B1}|IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|c:\\users\\ibrahim_ince\\desktop\\c# projects\\multishop\\identityserver\\multishop.identityserver\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA14094F-FB55-5ABC-1402-B4229C4AD0B1}|IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|solutionrelative:identityserver\\multishop.identityserver\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IGenericService.cs",
+              "DocumentMoniker": "C:\\Users\\ibrahim_ince\\Desktop\\C# Projects\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\Abstract\\IGenericService.cs",
+              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\Abstract\\IGenericService.cs",
+              "ToolTip": "C:\\Users\\ibrahim_ince\\Desktop\\C# Projects\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\Abstract\\IGenericService.cs*",
+              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\Abstract\\IGenericService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T09:37:57.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BasketItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\ibrahim_ince\\Desktop\\C# Projects\\MultiShop\\Frontends\\MultiShop.DtoLayer\\BasketDtos\\BasketItemDto.cs",
+              "RelativeDocumentMoniker": "Frontends\\MultiShop.DtoLayer\\BasketDtos\\BasketItemDto.cs",
+              "ToolTip": "C:\\Users\\ibrahim_ince\\Desktop\\C# Projects\\MultiShop\\Frontends\\MultiShop.DtoLayer\\BasketDtos\\BasketItemDto.cs",
+              "RelativeToolTip": "Frontends\\MultiShop.DtoLayer\\BasketDtos\\BasketItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T09:36:59.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ECommerceController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrahim_ince\\Desktop\\C# Projects\\MultiShop\\RapidApi\\MultiShop.RapidApiWebUI\\Controllers\\ECommerceController.cs",
+              "RelativeDocumentMoniker": "RapidApi\\MultiShop.RapidApiWebUI\\Controllers\\ECommerceController.cs",
+              "ToolTip": "C:\\Users\\ibrahim_ince\\Desktop\\C# Projects\\MultiShop\\RapidApi\\MultiShop.RapidApiWebUI\\Controllers\\ECommerceController.cs",
+              "RelativeToolTip": "RapidApi\\MultiShop.RapidApiWebUI\\Controllers\\ECommerceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T09:35:53.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibrahim_ince\\Desktop\\C# Projects\\MultiShop\\Frontends\\MultiShop.WebUI\\Program.cs",
+              "RelativeDocumentMoniker": "Frontends\\MultiShop.WebUI\\Program.cs",
+              "ToolTip": "C:\\Users\\ibrahim_ince\\Desktop\\C# Projects\\MultiShop\\Frontends\\MultiShop.WebUI\\Program.cs",
+              "RelativeToolTip": "Frontends\\MultiShop.WebUI\\Program.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAHkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T09:20:02.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceApiSettings.cs",
+              "DocumentMoniker": "C:\\Users\\ibrahim_ince\\Desktop\\C# Projects\\MultiShop\\Frontends\\MultiShop.WebUI\\Settings\\ServiceApiSettings.cs",
+              "RelativeDocumentMoniker": "Frontends\\MultiShop.WebUI\\Settings\\ServiceApiSettings.cs",
+              "ToolTip": "C:\\Users\\ibrahim_ince\\Desktop\\C# Projects\\MultiShop\\Frontends\\MultiShop.WebUI\\Settings\\ServiceApiSettings.cs",
+              "RelativeToolTip": "Frontends\\MultiShop.WebUI\\Settings\\ServiceApiSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T09:19:29.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CargoCompaniesController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrahim_ince\\Desktop\\C# Projects\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.WebApi\\Controllers\\CargoCompaniesController.cs",
+              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.WebApi\\Controllers\\CargoCompaniesController.cs",
+              "ToolTip": "C:\\Users\\ibrahim_ince\\Desktop\\C# Projects\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.WebApi\\Controllers\\CargoCompaniesController.cs",
+              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.WebApi\\Controllers\\CargoCompaniesController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T09:01:48.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CargoController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrahim_ince\\Desktop\\C# Projects\\MultiShop\\Frontends\\MultiShop.WebUI\\Areas\\Admin\\Controllers\\CargoController.cs",
+              "RelativeDocumentMoniker": "Frontends\\MultiShop.WebUI\\Areas\\Admin\\Controllers\\CargoController.cs",
+              "ToolTip": "C:\\Users\\ibrahim_ince\\Desktop\\C# Projects\\MultiShop\\Frontends\\MultiShop.WebUI\\Areas\\Admin\\Controllers\\CargoController.cs",
+              "RelativeToolTip": "Frontends\\MultiShop.WebUI\\Areas\\Admin\\Controllers\\CargoController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowCYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T09:00:10.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CargoCompanyService.cs",
+              "DocumentMoniker": "C:\\Users\\ibrahim_ince\\Desktop\\C# Projects\\MultiShop\\Frontends\\MultiShop.WebUI\\Services\\CargoServices\\CargoCompanyServices\\CargoCompanyService.cs",
+              "RelativeDocumentMoniker": "Frontends\\MultiShop.WebUI\\Services\\CargoServices\\CargoCompanyServices\\CargoCompanyService.cs",
+              "ToolTip": "C:\\Users\\ibrahim_ince\\Desktop\\C# Projects\\MultiShop\\Frontends\\MultiShop.WebUI\\Services\\CargoServices\\CargoCompanyServices\\CargoCompanyService.cs",
+              "RelativeToolTip": "Frontends\\MultiShop.WebUI\\Services\\CargoServices\\CargoCompanyServices\\CargoCompanyService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswBcAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T08:50:02.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "C:\\Users\\ibrahim_ince\\Desktop\\C# Projects\\MultiShop\\ApiGateway\\MultiShop.OcelotGateway\\ocelot.json",
+              "RelativeDocumentMoniker": "ApiGateway\\MultiShop.OcelotGateway\\ocelot.json",
+              "ToolTip": "C:\\Users\\ibrahim_ince\\Desktop\\C# Projects\\MultiShop\\ApiGateway\\MultiShop.OcelotGateway\\ocelot.json",
+              "RelativeToolTip": "ApiGateway\\MultiShop.OcelotGateway\\ocelot.json",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-16T08:54:51.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\ibrahim_ince\\Desktop\\C# Projects\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Config.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\MultiShop.IdentityServer\\Config.cs",
+              "ToolTip": "C:\\Users\\ibrahim_ince\\Desktop\\C# Projects\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Config.cs",
+              "RelativeToolTip": "IdentityServer\\MultiShop.IdentityServer\\Config.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T08:57:47.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BasketsController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrahim_ince\\Desktop\\C# Projects\\MultiShop\\Services\\Basket\\MultiShop.Basket\\Controllers\\BasketsController.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\MultiShop.Basket\\Controllers\\BasketsController.cs",
+              "ToolTip": "C:\\Users\\ibrahim_ince\\Desktop\\C# Projects\\MultiShop\\Services\\Basket\\MultiShop.Basket\\Controllers\\BasketsController.cs",
+              "RelativeToolTip": "Services\\Basket\\MultiShop.Basket\\Controllers\\BasketsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T08:43:54.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

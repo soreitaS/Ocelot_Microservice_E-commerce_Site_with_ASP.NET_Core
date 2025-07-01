@@ -1,0 +1,11 @@
+C:\Users\ibrahim_ince\Desktop\C# Projects\MultiShop\Frontends\MultiShop.DtoLayer\bin\Debug\net6.0\MultiShop.DtoLayer.deps.json
+C:\Users\ibrahim_ince\Desktop\C# Projects\MultiShop\Frontends\MultiShop.DtoLayer\bin\Debug\net6.0\MultiShop.DtoLayer.dll
+C:\Users\ibrahim_ince\Desktop\C# Projects\MultiShop\Frontends\MultiShop.DtoLayer\bin\Debug\net6.0\MultiShop.DtoLayer.pdb
+C:\Users\ibrahim_ince\Desktop\C# Projects\MultiShop\Frontends\MultiShop.DtoLayer\obj\Debug\net6.0\MultiShop.DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahim_ince\Desktop\C# Projects\MultiShop\Frontends\MultiShop.DtoLayer\obj\Debug\net6.0\MultiShop.DtoLayer.AssemblyInfoInputs.cache
+C:\Users\ibrahim_ince\Desktop\C# Projects\MultiShop\Frontends\MultiShop.DtoLayer\obj\Debug\net6.0\MultiShop.DtoLayer.AssemblyInfo.cs
+C:\Users\ibrahim_ince\Desktop\C# Projects\MultiShop\Frontends\MultiShop.DtoLayer\obj\Debug\net6.0\MultiShop.DtoLayer.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim_ince\Desktop\C# Projects\MultiShop\Frontends\MultiShop.DtoLayer\obj\Debug\net6.0\MultiShop.DtoLayer.dll
+C:\Users\ibrahim_ince\Desktop\C# Projects\MultiShop\Frontends\MultiShop.DtoLayer\obj\Debug\net6.0\refint\MultiShop.DtoLayer.dll
+C:\Users\ibrahim_ince\Desktop\C# Projects\MultiShop\Frontends\MultiShop.DtoLayer\obj\Debug\net6.0\MultiShop.DtoLayer.pdb
+C:\Users\ibrahim_ince\Desktop\C# Projects\MultiShop\Frontends\MultiShop.DtoLayer\obj\Debug\net6.0\ref\MultiShop.DtoLayer.dll
